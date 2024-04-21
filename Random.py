@@ -28,4 +28,3 @@ def generate_password():
     return password
 
 print(generate_password())
-
